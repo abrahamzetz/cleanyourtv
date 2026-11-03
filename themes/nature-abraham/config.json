@@ -19,7 +19,7 @@
   "wallpaper_captions": false,
   "wallpaper_true_color": true,
   "wallpaper_dim": 14,
-  "cinematic_home": true,
+  "cinematic_home": false,
   "dock_title": false,
   "dock_glass": true,
   "dock_opacity": 40,
