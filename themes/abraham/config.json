@@ -7,7 +7,8 @@
     "com.amazon.amazonvideo.livingroom",
     "com.windscribe.vpn",
     "se.svt.android.svtplay",
-    "se.tv4.tv4playtab"
+    "se.tv4.tv4playtab",
+    "io.github.jqssun.airplay"
   ],
   "fill_dock": false,
   "columns": 4,
