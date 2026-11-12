@@ -8,7 +8,8 @@
     "com.windscribe.vpn",
     "se.svt.android.svtplay",
     "se.tv4.tv4playtab",
-    "io.github.jqssun.airplay"
+    "io.github.jqssun.airplay",
+    "com.neilturner.aerialviews"
   ],
   "fill_dock": false,
   "columns": 4,
